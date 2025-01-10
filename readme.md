@@ -1,6 +1,8 @@
 # Web Content Downloader
 
-A Python script that allows you to download content from multiple web pages. The script displays all links on a given webpage, lets you select which ones to download, and saves their content to a single file.
+A simple and quick script to view all of the links on a given webpage, and then select which of those links you'd like to extract the contents of. 
+
+A good example would be a candidate's "press releases" page, which includes links to press releases. This would let you extract the links to each press release, and download their contents into a single txt file for archiving and analysis. 
 
 ## Features
 - Lists all links found on an input webpage
